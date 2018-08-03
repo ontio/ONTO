@@ -3,7 +3,6 @@
 
 
 <h1 align="center">ONTO</h1>
-<h4 align="center">Coming soon ...</h4>
 
 ## Introduction
 
@@ -13,4 +12,4 @@ ONTO is an integrated user terminal based on Ontology Blockchain, which is an e
 
 ## How to get ONTO
 
-ONTO APP is in the process of testing, Coming soon...
+https://onto.app/
