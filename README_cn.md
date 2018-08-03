@@ -3,7 +3,6 @@
 
 
 <h1 align="center">ONTO</h1>
-<h4 align="center">敬请期待 ...</h4>
 
 ## 总体介绍
 
@@ -13,4 +12,4 @@ ONTO是基于本体的综合客户端产品，是本体信任搜索引擎和区�
 
 ## 获取方式
 
-ONTO APP 正在测试过程中，敬请期待...
+https://onto.app/
